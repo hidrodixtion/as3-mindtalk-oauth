@@ -1,5 +1,5 @@
 SIMPLE MINDTALK OAUTH LIBRARY FOR FLASH, FLEX, AIR
-==================================================
+--------------------------------------------------
 
 Simple Library (just for get access_token) for mindtalk OAuth
 
@@ -15,4 +15,4 @@ for Flow of Authorization in MindTalk, read [this](http://developer.digaku.com/a
 
 Flash Player 11/Adobe AIR 3.1 is required for native JSON parsing. For older version of FP/AIR you can use [as3corelib](https://github.com/mikechambers/as3corelib) by Mike Chambers
 
-Example (AIR) and its source is inside example folder
+Example can be download in [here](http://dl.dropbox.com/u/3448399/MindAuth%20Example.air) its source is inside example folder
